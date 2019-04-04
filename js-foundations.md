@@ -1,4 +1,4 @@
-# Week 1 Assessment
+# Javascript Foundations Assessments
 
 ### Without using Google answer the following:
 
