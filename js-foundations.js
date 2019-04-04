@@ -1,4 +1,4 @@
-//-----------JavaScript Practical Assessment Week 1
+// Javascript Foundations Assessments
 
 // 1. Write an anonymous function that takes one argument of type number and decides if that number is evenly divisble by three or not. If it is, print the number and "is divisible by three" or, print the number and "is not divisble by three".
 
