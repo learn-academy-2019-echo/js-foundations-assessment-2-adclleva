@@ -22,7 +22,7 @@ var randomNouns = ["streetlamp", "potato", "teeth", "conclusion", "nephew", "tem
 
 
 
-// 3c. Stretch: Create a function that takes in the variable and returns the array with all the words capitalized. Expected output: ["Streetlamp", "Potato", "Teeth", "Conclusion", "Nephew", "Temperature", "Database"]
+// 3c. Stretch: Create a function called capitalizer that takes in the variable and returns the array with all the words capitalized. Expected output: ["Streetlamp", "Potato", "Teeth", "Conclusion", "Nephew", "Temperature", "Database"]
 
 
 
@@ -36,10 +36,17 @@ var testString3 = "sandiego"
 
 
 
+// 4b. Write a function that takes in all three variables and returns a string with all the letters in alphabetical order. Expected output: "aaaacddeeegilmnnorsy"
+
+
 
 // -------------------------------------------------
 // Consider the variables:
-var nums = [9, 5, 88, 2, 5, 42, 57]
-var nouns = ["ducks", "elephants", "pangolin", "rhinoceros", "giraffes", "penguins", "llamas"]
+var amounts = [9, 1, 8, 16, 5, 1, 42]
+var animals = ["ducks", "elephants", "pangolins", "zebras", "giraffes", "penguins", "llamas"]
 
-// 5. Given the arrays below, write a function that returns one value from each array concatenated together. Expected output: "9 ducks" etc
+// 5a. Write a function that takes the two variables and returns a combined string. Expected output: "9 ducks 1 elephants 8 pangolins 16 zebras 5 giraffes 1 penguins 42 llamas"
+
+
+
+// 5b. Stretch: Create a function that combines the two varibales and updates the animal to be singular if the animal's corresponding number is 1. Expected output: "9 ducks 1 elephant 8 pangolins 16 zebras 5 giraffes 1 penguin 42 llamas"
