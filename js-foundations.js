@@ -1,11 +1,11 @@
 // ASSESSMENT 2: JAVASCRIPT FOUNDATIONS
 // Coding practical questions
 
-// 1. Write an arrow function that takes one argument of type number and decides if the number is evenly divisble by three or not. Use the test cases 15, 0, 385, -7. Expected output: "15 is divisible by three", "0 is divisible by three", "385 is not divisble by three", "-7 is not divisble by three".
+// 1. Write an arrow function that takes a number as an argument and decides if the number is evenly divisble by three or not. Use the test cases 15, 0, 385, -7. Expected output: "15 is divisible by three", "0 is divisible by three", "385 is not divisble by three", "-7 is not divisble by three".
 
 
 
-// 2. Create an object called helloMe. Include your firstName, lastName and TWO OTHER properties of you. Add a method to your object that will return a sentence describing you.
+// 2. Create an object called helloMe. Include your firstName, lastName and TWO OTHER properties of you. Add a method to your object that will return a sentence using the object properties to describe you.
 
 
 
@@ -32,7 +32,7 @@ var testString1 = "learn"
 var testString2 = "academy"
 var testString3 = "sandiego"
 
-// 4a. Write a function called alphabetSoup that takes one argument and return a string with all the letters in alphabetical order. Use each of the varibales as test cases. Expected output: "aelnr" "aacdemy" "adeginos"
+// 4a. Write a function called alphabetSoup that takes one argument and returns a string with all the letters in alphabetical order. Use each of the varibales as test cases. Expected output: "aelnr" "aacdemy" "adeginos"
 
 
 
@@ -49,4 +49,4 @@ var animals = ["ducks", "elephants", "pangolins", "zebras", "giraffes", "penguin
 
 
 
-// 5b. Stretch: Create a function that combines the two varibales and updates the animal to be singular if the animal's corresponding number is 1. Expected output: "9 ducks 1 elephant 8 pangolins 16 zebras 5 giraffes 1 penguin 42 llamas"
+// 5b. Stretch: Create a function that combines the two variables and updates the animal to be singular if the animal's corresponding number is 1. Expected output: "9 ducks 1 elephant 8 pangolins 16 zebras 5 giraffes 1 penguin 42 llamas"
