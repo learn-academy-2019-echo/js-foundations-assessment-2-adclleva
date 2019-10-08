@@ -1,28 +1,6 @@
 # ASSESSMENT 2: FOUNDATIONS OF JAVASCRIPT
 ## Interview Practice Questions
 
-### From memory, answer the following:
-
-1. What's the difference between =, ==, and === in JavaScript?
-
-
-
-2. What is the difference between an array's index and length?
-
-
-
-3. What is a function's declaration, argument, and call?
-
-
-
-4. What are the three main steps in saving work to github?
-
-
-
-5. What is an object?
-
-
-
 ### Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.
 
 Consider the function:
@@ -46,7 +24,7 @@ logIt()
   Researched answer:
 
 
-2. What is JSON? How does it relate to javascript objects?
+2. What is JSON?
 
   Your answer:
 
@@ -60,21 +38,29 @@ logIt()
   Researched answer:
 
 
-4. What is a higher-order function?
+
+4. What does are the 5 HTTP verbs?
 
   Your answer:
 
   Researched answer:
 
 
-5. Stretch: What is a closure, what is it good for and how do you recognize one?
+5. What is a higher-order function?
 
   Your answer:
 
   Researched answer:
 
 
-6. Stretch: What is an API?
+6. STRETCH: What is a closure, what is it good for and how do you recognize one?
+
+  Your answer:
+
+  Researched answer:
+
+
+7. STRETCH: What is an API?
 
   Your answer:
 

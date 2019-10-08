@@ -1,7 +1,7 @@
 // ASSESSMENT 2: JAVASCRIPT FOUNDATIONS
 // Coding practical questions
 
-// 1. Write an arrow function that takes a number as an argument and decides if the number is evenly divisble by three or not. Use the test cases 15, 0, 385, -7. Expected output: "15 is divisible by three", "0 is divisible by three", "385 is not divisble by three", "-7 is not divisble by three".
+// 1. Write a function that takes a number as an argument and decides if the number is evenly divisble by three or not. Use the test cases 15, 0, 385, -7. Expected output: "15 is divisible by three", "0 is divisible by three", "385 is not divisble by three", "-7 is not divisble by three".
 
 
 
@@ -9,25 +9,24 @@
 
 
 
-// -------------------------------------------------
-// Consider the variable:
+// ------------------------------------- Consider the variable:
 
 var randomNouns = ["streetlamp", "potato", "teeth", "conclusion", "nephew", "temperature", "database"]
 
-// 3a. Write a function that returns every other item as one string. Expected output: "streetlamp teeth nephew database"
+// 3a. Write a function that returns every other item from the array as one string. Expected output: "streetlamp teeth nephew database"
 
 
 
-// 3b. Create an arrow function that takes in the variable and returns an array with the number of letters in each string. Expected output: [10, 6, 5, 10, 6, 11, 8]
+// 3b. Create a function that takes in the variable and returns the array with all the words capitalized. Expected output: ["Streetlamp", "Potato", "Teeth", "Conclusion", "Nephew", "Temperature", "Database"]
 
 
 
-// 3c. Stretch: Create a function called capitalizer that takes in the variable and returns the array with all the words capitalized. Expected output: ["Streetlamp", "Potato", "Teeth", "Conclusion", "Nephew", "Temperature", "Database"]
+// 3c. STRETCH: Create a function that returns the length of each string from the randomNouns variable. Expected output: [10, 6, 5, 10, 6, 11, 8]
 
 
 
-// -------------------------------------------------
-// Consider the variables:
+
+// -------------------------------------- Consider the variables:
 var testString1 = "learn"
 var testString2 = "academy"
 var testString3 = "sandiego"
@@ -40,8 +39,7 @@ var testString3 = "sandiego"
 
 
 
-// -------------------------------------------------
-// Consider the variables:
+// ------------------------------------- Consider the variables:
 var amounts = [9, 1, 8, 16, 5, 1, 42]
 var animals = ["ducks", "elephants", "pangolins", "zebras", "giraffes", "penguins", "llamas"]
 
@@ -49,4 +47,4 @@ var animals = ["ducks", "elephants", "pangolins", "zebras", "giraffes", "penguin
 
 
 
-// 5b. Stretch: Create a function that combines the two variables and updates the animal to be singular if the animal's corresponding number is 1. Expected output: "9 ducks 1 elephant 8 pangolins 16 zebras 5 giraffes 1 penguin 42 llamas"
+// 5b. STRETCH: Create a function that combines the two variables and updates the animal to be singular if the animal's corresponding number is 1. Expected output: "9 ducks 1 elephant 8 pangolins 16 zebras 5 giraffes 1 penguin 42 llamas"
